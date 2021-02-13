@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.NET Core, React.js**
 
-- 📝 I regularly write articles on [https://duyguevrim.medium.com/](https://duyguevrim.medium.com/)
+- 📝 I regularly write articles on [My Medium Page](https://duyguevrim.medium.com/)
 
 - 💬 Ask me about **Python, Vue, Angular**
 
